@@ -1,11 +1,11 @@
 
-# Hi 👋 I'm Hritik Rajput 
+# Hi 👋 I'm Hritik Rajput (Let's Build It 💻🌐🧩)
 
 🎓 BCA Student  
 💻 Web Developer | Business Analytics Enthusiast  
 📍 India  
 
-I am a passionate technology enthusiast currently pursuing BCA. 
+I am a tech enthusiast currently pursuing BCA. 
 I enjoy building web applications and working with data to generate 
 insights for business decision-making. My goal is to secure a position 
 in a reputed company where I can apply my knowledge in business 
@@ -15,7 +15,7 @@ analytics, operations, and supply chain logistics.
 
 # 🚀 Skills
 
-Programming
+Programming 💻
 HTML
 CSS
 JavaScript
@@ -24,21 +24,23 @@ Java
 PHP
 
 Tools & Technologies
-MySQL
-Power BI
-Tableau
+Power BI 📊,
+Tableau 📊, 
+Git ,
+GitHub ,
+VS Code
 
 Other Knowledge
-Business Analytics
-Operations Management
-Supply Chain Logistics
+Business Analytics ,
+Operations Management ,
+Supply Chain Logistics 
 
 ---
 
 # 💻 Web Development Projects
 
 ## CourseQuest Website
-A platform that compares different online learning platforms and helps 
+📚 A platform that compares different online learning platforms and helps 
 students choose the best course.
 
 Technologies Used:
@@ -49,7 +51,7 @@ JavaScript
 ---
 
 # Space Astro Website
-A space-themed informational website that displays astronomical data 
+🌌 A space-themed informational website that displays astronomical data 
 and interactive content.
 
 Technologies Used:
@@ -61,8 +63,8 @@ MySQL
 ---
 
 # Travel Booking Management System
-A web application that allows users to book travel packages and manage 
-their bookings.
+✈️ A website that allows users to book travel packages and manage 
+their bookings and choose thier rooms as per their choices and preferences 🏖️
 
 Technologies Used:
 HTML
@@ -73,7 +75,7 @@ MySQL
 
 ---
 
-## 📊 Business Analytics Skills
+# 📊 Business Analytics Skills
 
 Power BI Dashboard Development  
 Data Visualization using Tableau  
