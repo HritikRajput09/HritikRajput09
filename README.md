@@ -2,7 +2,7 @@
 # Hi 👋 I'm Hritik Rajput (Let's Build It 💻🌐🧩)
 
 🎓 BCA Student  
-💻 Web Developer | Business Analytics Enthusiast  
+💻 Web & Software Devloper | Business Analytics Enthusiast  
 📍 India  
 
 I am a tech enthusiast currently pursuing BCA. 
