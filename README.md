@@ -16,12 +16,12 @@ analytics, operations, and supply chain logistics.
 # 🚀 Skills
 
 Programming 💻
-HTML
-CSS
-JavaScript
-Python
-Java
-PHP
+HTML ,
+CSS ,
+JavaScript ,
+Python ,
+Java ,
+PHP 
 
 Tools & Technologies
 Power BI 📊,
@@ -44,9 +44,10 @@ Supply Chain Logistics
 students choose the best course.
 
 Technologies Used:
-HTML
-CSS
-JavaScript
+HTML ,
+CSS ,
+JavaScript ,
+MySQL 
 
 ---
 
@@ -55,10 +56,10 @@ JavaScript
 and interactive content.
 
 Technologies Used:
-HTML
-CSS
-JavaScript
-MySQL
+HTML ,
+CSS ,
+JavaScript ,
+MySQL ,
 
 ---
 
@@ -67,15 +68,17 @@ MySQL
 their bookings and choose thier rooms as per their choices and preferences 🏖️
 
 Technologies Used:
-HTML
-CSS
-JavaScript
-PHP
-MySQL
+HTML ,
+CSS ,
+JavaScript ,
+PHP ,
+MySQL ,
 
 ---
 
-# 📊 Business Analytics Skills
+# 📊 Business Analytics Skills and project
+
+Interactive Sales Dashboard built with Power BI to analyze product purchasing trends worldwide, with a primary focus on the United States market, providing insights into sales performance, regional distribution, and customer behavior.
 
 Power BI Dashboard Development  
 Data Visualization using Tableau  
