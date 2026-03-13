@@ -1,5 +1,5 @@
 
-# Hi 👋 I'm Hritik Rajput
+# Hi 👋 I'm Hritik Rajput 
 
 🎓 BCA Student  
 💻 Web Developer | Business Analytics Enthusiast  
@@ -37,7 +37,7 @@ Supply Chain Logistics
 
 # 💻 Web Development Projects
 
-### CourseQuest Website
+## CourseQuest Website
 A platform that compares different online learning platforms and helps 
 students choose the best course.
 
@@ -85,23 +85,30 @@ Data Analysis using Python
 # 📜 Certifications
 
 Full Stack Development (HTML, CSS, JavaScript)
+https://www.udemy.com/certificate/UC-68c36550-89f4-4145-8760-f4ac05846aba/
 
 Power BI Certification
+https://www.udemy.com/certificate/UC-a126856a-a424-4e41-a27f-d4c5cf33cf9a/
 
 DSA with Python
+https://www.udemy.com/certificate/UC-3da8c1ca-6a3e-4fb2-ae1e-54225249611c/
+
+Basics of Data Visualization with Tableau https://docs.uniathena.com/prod/course/certificate/348_1765285792_certificate.jpg
+
+Basics of Microsoft Power BI https://docs.uniathena.com/prod/course/certificate/625_1765282437_certificate.jpg
 
 ---
 
-## 🎯 Career Objective
+# 🎯 Career Objective
 
-I am seeking an opportunity in a reputed organization where I can 
+I am seeking an opportunity to work in an organization where I can 
 contribute my technical skills and analytical thinking to solve 
 business problems related to operations, logistics, and business 
 analytics.
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 Email: Rutikrajput27@gmail.com  
 LinkedIn: https://www.linkedin.com/in/hritik-rajput-851838319/ 
