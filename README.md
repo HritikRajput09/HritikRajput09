@@ -27,11 +27,8 @@ analytics, operations, and supply chain logistics.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Other Knowledge
-Business Analytics ,
-Operations Management ,
-Supply Chain Logistics 
-
+📚 Other Knowledge:
+📊 Business Analytics | ⚙️ Operations Management | 🚚 Supply Chain & Logistics
 ---
 
 # 💻 Web Development Projects
