@@ -113,55 +113,19 @@ analytics.
 
 ---
 
-# 🚀 GitHub Activity & Stats
+## 📊 GitHub Activity
 
-<p align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=HritikRajput09&color=blue)
 
-<img src="https://komarev.com/ghpvc/?username=HritikRajput09&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HritikRajput09&show_icons=true&theme=radical)
 
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HritikRajput09&layout=compact)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=HritikRajput09&theme=radical)
 
-## 📊 GitHub Statistics
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HritikRajput09&theme=react-dark)
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" height="170"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark"/>
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7"/>
-
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HritikRajput09&theme=radical)
 
 # 📫 Contact
 
