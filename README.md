@@ -113,6 +113,56 @@ analytics.
 
 ---
 
+# 🚀 GitHub Activity & Stats
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=HritikRajput09&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7"/>
+
+</p>
+
 # 📫 Contact
 
 Email: Rutikrajput27@gmail.com  
